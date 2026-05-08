@@ -1,0 +1,27 @@
+order_id,customer_name,customer_email,product_name,category,quantity,unit_price,order_date,region,status
+1001,Alice Johnson,alice.johnson@example.com,Wireless Mouse,Electronics,2,24.99,2026-04-18,North America,shipped
+1002,Ben Carter,ben.carter@example.com,Notebook,Office Supplies,5,3.49,2026-04-18,North America,delivered
+1003,Carla Diaz,carla.diaz@example.com,Desk Lamp,Home & Kitchen,1,39.95,2026-04-19,Europe,processing
+1004,David Lee,david.lee@example.com,Running Shoes,Sports,1,89.50,2026-04-19,Asia,shipped
+1005,Emma Stone,emma.stone@example.com,Water Bottle,Sports,3,14.25,2026-04-20,North America,delivered
+1006,Faisal Khan,faisal.khan@example.com,USB-C Cable,Electronics,4,9.99,2026-04-20,Europe,processing
+1007,Grace Miller,grace.miller@example.com,Cookware Set,Home & Kitchen,1,129.00,2026-04-21,North America,shipped
+1008,Hector Ruiz,hector.ruiz@example.com,Sticky Notes,Office Supplies,10,1.99,2026-04-21,South America,delivered
+1009,Isha Patel,isha.patel@example.com,Headphones,Electronics,2,59.95,2026-04-22,Asia,shipped
+1010,Jonah Reed,jonah.reed@example.com,Backpack,Sports,1,44.00,2026-04-22,Europe,processing
+1011,Kate Wong,kate.wong@example.com,Planner,Office Supplies,2,12.75,2026-04-23,North America,delivered
+1012,Liam Scott,liam.scott@example.com,Air Fryer,Home & Kitchen,1,99.99,2026-04-23,North America,shipped
+1013,Maya Chen,maya.chen@example.com,Smart Speaker,Electronics,1,79.00,2026-04-24,Asia,delivered
+1014,Nora Ali,nora.ali@example.com,Resistance Bands,Sports,2,18.50,2026-04-24,Europe,processing
+1015,Owen Park,owen.park@example.com,Office Chair,Office Supplies,1,149.99,2026-04-25,North America,shipped
+1016,Priya Nair,priya.nair@example.com,Blender,Home & Kitchen,1,64.90,2026-04-25,Asia,delivered
+1017,Quinn Adams,quinn.adams@example.com,Keyboard,Electronics,2,49.95,2026-04-26,North America,processing
+1018,Rita Gomez,rita.gomez@example.com,Yoga Mat,Sports,3,22.00,2026-04-26,South America,delivered
+1019,Samuel Brooks,samuel.brooks@example.com,Desk Organizer,Office Supplies,2,15.40,2026-04-27,Europe,shipped
+1020,Tina Clark,tina.clark@example.com,Tea Kettle,Home & Kitchen,1,34.80,2026-04-27,North America,delivered
+1021,Uma Shah,uma.shah@example.com,Portable SSD,Electronics,1,109.99,2026-04-28,Asia,processing
+1022,Victor Hall,victor.hall@example.com,Resistance Loop Set,Sports,2,11.25,2026-04-28,Europe,shipped
+1023,Wendy Fox,wendy.fox@example.com,Paper Ream,Office Supplies,8,6.49,2026-04-29,North America,delivered
+1024,Xavier Young,xavier.young@example.com,Microwave Oven,Home & Kitchen,1,159.00,2026-04-29,North America,processing
+1025,Yara Ibrahim,yara.ibrahim@example.com,Monitor Stand,Office Supplies,1,27.99,2026-04-30,Asia,shipped
+1026,Zane Turner,zane.turner@example.com,Fitness Tracker,Electronics,1,129.95,2026-04-30,Europe,delivered

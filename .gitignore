@@ -1,0 +1,70 @@
+# ─── Python ───────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+.Python
+pip-wheel-metadata/
+
+# ─── Virtual Environments ─────────────────────────────────────────────────────
+venv/
+.venv/
+env/
+ENV/
+
+# ─── Secrets & Credentials ────────────────────────────────────────────────────
+backend/.env
+.env
+*.pem
+*.key
+*.cert
+
+# ─── Test & Coverage Artifacts ────────────────────────────────────────────────
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+*.db
+test.db
+
+# ─── Node / Frontend ──────────────────────────────────────────────────────────
+node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.local
+.eslintcache
+
+# ─── IDE / Editor ─────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# ─── Logs ─────────────────────────────────────────────────────────────────────
+*.log
+logs/
+
+# ─── Research / Experiment Outputs (keep .json results, ignore large CSVs) ────
+experiments/*.csv
+experiments/tmp/
+
+# ─── Docker ───────────────────────────────────────────────────────────────────
+*.pid
+
+# ─── Paper / Research (scratch & generated files) ────────────────────────────
+*.docx
+paper/FILES_TO_UPLOAD.txt
+paper/querymind_ieee_overleaf.tex
+paper/COMPILATION_GUIDE.md
+paper/OVERLEAF_UPLOAD_GUIDE.md
+paper/PAPER_GUIDE.md
+paper/PAPER_STRUCTURE.md
+paper/QUICK_START.md
+paper/SUBMISSION_CHECKLIST.md
