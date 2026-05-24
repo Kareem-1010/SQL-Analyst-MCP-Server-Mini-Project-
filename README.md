@@ -1,5 +1,5 @@
 # QueryMind AI — Enterprise SQL Analytics Platform
-
+ 
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/Python-3.11%2B-brightgreen)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.111-009688)
