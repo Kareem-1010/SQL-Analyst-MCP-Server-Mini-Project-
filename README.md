@@ -41,12 +41,12 @@ This repository is the reference implementation for the IEEE paper:
 ## 🎯 Product Overview
 
 QueryMind AI is an enterprise-grade SQL analytics platform that combines:
-- **Natural Language Queries** — Ask questions in English, get SQL results via Groq LLaMA 3.3 70B
-- **Multi-Tenant Architecture** — Each user gets a completely isolated PostgreSQL database
-- **4-Layer MCP Safety Pipeline** — Token analysis, WHERE enforcement, function blocking, stacked detection
-- **Double-Confirmation Gate (DCG)** — Cryptographic confirmation required for all destructive SQL
-- **Audit Logging** — Full GDPR-compliant compliance trail for all operations
-- **TF-IDF Schema Retrieval** — Context-aware, schema-ranked NL-to-SQL prompt building
+- **Natural Language Queries** — Ask questions in English, get SQL results via Groq LLaMA 3.3 70B.
+- **Multi-Tenant Architecture** — Each user gets a completely isolated PostgreSQL database.
+- **4-Layer MCP Safety Pipeline** — Token analysis, WHERE enforcement, function blocking, stacked detection.
+- **Double-Confirmation Gate (DCG)** — Cryptographic confirmation required for all destructive SQL.
+- **Audit Logging** — Full GDPR-compliant compliance trail for all operations.
+- **TF-IDF Schema Retrieval** — Context-aware, schema-ranked NL-to-SQL prompt building.
 
 ### 🔬 Research Contributions (IEEE Paper)
 
